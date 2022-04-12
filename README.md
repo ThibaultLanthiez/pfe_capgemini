@@ -1,26 +1,12 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-<img src="https://soyhuce.fr/wp-content/themes/soyhuce/img/logo-soyhuce.png" width="35%" and height="35%"/>
+<img src="https://github.com/ThibaultLanthiez/pfe_capgemini/blob/main/logo_capgemini.png" width="30%" and height="30%"/>
 
-# Preuve de concept sur le Marketing Mix Modeling
+# Démonstrateur de missions d'IA
 
-Le MMM (Marketing Mix Modeling) est un ensemble de méthodes d'analyse de données marketing. Il utilise des données marketing (Marketing Mix) pour modéliser (Modeling) les ventes ou un autre indicateur de performance.
+Dans ce cadre de démonstrations clients, il m’a été demandé de développer un démonstrateur de use cases d’intelligence artificielle. L’objectif est que les clients aient une vision claire et interactive des projets types d’intelligence artificielle que Capgemini peut proposer. Ce démonstrateur est un élément supplémentaire à toutes les missions présentées lors des visites clients dans le show room. 
 
-Le MMM permet de simuler et d'optimiser les stratégies marketing d'une entreprise. 
-
-La stratégie marketing la plus simulée en MMM est la dépense dans les canaux de communication d'une campagne publicitaire. Le MMM permet alors d'étudier l'influence de la dépense publicitaire dans des médias sur les ventes. 
-
-Dans le but de simuler une campagne publicitaire, le MMM permet de répondre aux questions suivantes : 
-* Quel est le média qui contribue le plus aux ventes ?
-* Combien investir dans chaque média pour maximiser les ventes ?
-* Quand investir ?
-
-Les modèles développés en MMM ont pour but d'optimiser l'allocation des dépenses publicitaires. Cela permet de détacher des ventes de base (c'est-à-dire sans publicité) la contribution des différents médias. On peut ainsi déterminer, pour un budget donné, la répartition des dépenses des médias qui maximise le montant des ventes.
-
-Plusieurs objectifs se sont ajoutés tout au long du stage :
-* Faire des recherches sur le MMM, sur des études de cas qui ont été postées sur internet, sur les données marketing disponibles en OpenData.  
-* Faire des analyses MMM sur des données marketing afin de comprendre toutes les possibilités qu'offre le MMM.
-* Développer un simulateur de campagnes commerciales en utilisant des méthodes de MMM.
+Plus spécifiquement, les use cases d’intelligence artificielle sont orientés vers la vision par ordinateur. C’est le fait de donner la capacité à une machine d’interpréter une image ou une vidéo. Dans ce cadre, le premier use case a été de la détection d’objet.
 
 # Code
 
